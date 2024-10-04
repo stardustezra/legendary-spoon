@@ -1,6 +1,6 @@
 # Script for keeping PC active
 
-** Have Python and Pip installed **
+**Have Python and Pip installed**
 
 1. Clone repo
 
