@@ -13,3 +13,6 @@ pip install pyautogui
 ```sh
 python3 keep_alive.py
 ```
+
+4. Stop script
+Stop the script with `ctrl+C`
